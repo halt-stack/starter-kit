@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "halt-stack/starter-kit",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "The HALT Stack Starter Kit.",
+    "keywords": ["framework", "laravel", "halt", "htmx", "alpine", "tailwind", "starter kit"],
     "license": "MIT",
     "require": {
         "php": "^8.1",
