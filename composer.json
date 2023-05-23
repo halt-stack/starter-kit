@@ -1,7 +1,7 @@
 {
     "name": "halt-stack/starter-kit",
     "type": "project",
-    "description": "The HALT Stack Starter Kit.",
+    "description": "A Laravel starter kit with HTMX, Alpine.js, and Tailwind CSS.",
     "keywords": ["framework", "laravel", "halt", "htmx", "alpine", "tailwind", "starter kit"],
     "license": "MIT",
     "require": {
