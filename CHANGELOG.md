@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2023-05-28
+
 ### Added
 
+- Added `BaseRequest.php`: Introduced BaseRequest class to handle failed validation attempts for HTMX and return response with errors in a view.
 - Added `@rollup/plugin-inject` to devDependencies.
 - Added `@alpinejs/morph` to dependencies.
 - Added `htmx-alpine-morph` extension to `vite.config.js` using `@rollup/plugin-inject`.
